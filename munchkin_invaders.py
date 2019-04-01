@@ -1,4 +1,4 @@
-#invaders_from_python.py
+#munchkin_invaders.py
 
 import sys
 import pygame
